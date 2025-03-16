@@ -8,7 +8,7 @@ InsTallaTion :
 
 Go to this folder : <b>"\Games\Towers\Towers\Content\Movies"</b>
 
-And rename original one : "MainMenuMovie_Hut.bk2" to "ORI-MainMenuMovie_Hut.bk2"
+And rename original one : <b>"MainMenuMovie_Hut.bk2"</b> to <b>"ORI-MainMenuMovie_Hut.bk2"</b>
 
 Copy all folder of Unofficial-Menu-Loop on this folder : <b>"\Games\Towers\Towers\Content\Movies"</b>
 
