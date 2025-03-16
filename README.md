@@ -2,7 +2,7 @@
 
 Unofficial Menu Loop
 
-[u]InsTallaTion :[/u]
+<span style="text-decoration: underline;">InsTallaTion :</span>
 
 - Before modding, you need to make save of orignal file.
 
