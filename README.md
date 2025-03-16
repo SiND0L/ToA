@@ -2,17 +2,17 @@
 
 Unofficial Menu Loop
 
-<u>InsTallaTion :</u>
+InsTallaTion :
 
 - Before modding, you need to make save of orignal file.
-
-Copy all folder of Unofficial-Menu-Loop on this folder : "\Games\Towers\Towers\Content\Movies"
 And then rename original one : "MainMenuMovie_Hut.bk2" to "ORI-MainMenuMovie_Hut.bk2"
 
-Choose one file
-example :  "\Games\Towers\Towers\Content\Movies\Unofficial-Menu-Loop\3-MainMenuMovie_Hut.bk2"
+Copy all folder of Unofficial-Menu-Loop on this folder : <b>"\Games\Towers\Towers\Content\Movies"</b>
 
-And move this file to "\Games\Towers\Towers\Content\Movies\3-MainMenuMovie_Hut.bk2"
+Choose one file
+example : <b>"\Games\Towers\Towers\Content\Movies\Unofficial-Menu-Loop\3-MainMenuMovie_Hut.bk2"</b>
+
+And move or copy this file to <b>"\Games\Towers\Towers\Content\Movies\3-MainMenuMovie_Hut.bk2"</b>
 
 Then rename <b>3-MainMenuMovie_Hut.bk2 to MainMenuMovie_Hut.bk2</b>
 
