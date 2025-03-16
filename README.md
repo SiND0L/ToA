@@ -19,6 +19,12 @@ And move or copy this file to <b>"\Games\Towers\Towers\Content\Movies\3-MainMenu
 
 Then rename <b>3-MainMenuMovie_Hut.bk2 to MainMenuMovie_Hut.bk2</b>
 
+All menu loop was too big for github, so uploaded here
+
+Download : https://qiwi.gg/file/2LQv6011-Unofficial-Menu-Loop
+unofficial menu loop ( password for extracting : TOA )
+
+
 Launch your game, and enjoy!
 
 And don't forget to visit discord of Towers of Aghasba
