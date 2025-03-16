@@ -13,7 +13,7 @@ example :  "\Games\Towers\Towers\Content\Movies\Unofficial-Menu-Loop\3-MainMenuM
 
 And move this file to "\Games\Towers\Towers\Content\Movies\3-MainMenuMovie_Hut.bk2"
 
-Then rename 3-MainMenuMovie_Hut.bk2 to MainMenuMovie_Hut.bk2
+Then rename <b>3-MainMenuMovie_Hut.bk2 to MainMenuMovie_Hut.bk2</b>
 
 Launch your game, and enjoy!
 
