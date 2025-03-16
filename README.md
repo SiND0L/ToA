@@ -2,7 +2,7 @@
 
 Unofficial Menu Loop
 
-<s>InsTallaTion :</S>
+<u>InsTallaTion :</u>
 
 - Before modding, you need to make save of orignal file.
 
