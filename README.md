@@ -22,7 +22,7 @@ Then rename <b>3-MainMenuMovie_Hut.bk2 to MainMenuMovie_Hut.bk2</b>
 All menu loop was too big for github, so uploaded here
 
 Download : [Unofficial Menu Loop](https://terabox.com/s/1wQVHa-Qadh66qg3Xp6k6wQ)
-unofficial menu loop ( password for extracting : <b>TOA</b> )
+( password for extracting : <b>TOA</b> )
 
 
 Launch your game, and enjoy!
