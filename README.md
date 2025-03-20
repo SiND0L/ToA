@@ -2,7 +2,7 @@
 
 Unofficial Menu Loop
 
-InsTallaTion :
+<ins>InsTallaTion :</ins>
 
 - Before modding, you need to make save of orignal file.
 
@@ -21,7 +21,7 @@ Then rename <b>3-MainMenuMovie_Hut.bk2 to MainMenuMovie_Hut.bk2</b>
 
 All menu loop was too big for github, so uploaded here
 
-Download : https://qiwi.gg/file/fqgX1262-Unofficial-Menu-Loop
+Download : https://terabox.com/s/1wQVHa-Qadh66qg3Xp6k6wQ
 unofficial menu loop ( password for extracting : <b>TOA</b> )
 
 
