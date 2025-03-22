@@ -27,5 +27,5 @@ Download : [Unofficial Menu Loop](https://terabox.com/s/1wQVHa-Qadh66qg3Xp6k6wQ)
 
 Launch your game, and enjoy!
 
-And don't forget to visit discord of Towers of Aghasba
+And don't forget to visit and support this game on discord of Towers of Aghasba
 https://discord.gg/TyXqTWNcmf
